@@ -1,0 +1,8 @@
+# .env 파일을 git에 포함시키지 않습니다.
+.env
+
+# 파이썬 가상환경 폴더를 git에 포함시키지 않습니다.
+venv/
+__pycache__/
+.DS_Store
+.idea/
